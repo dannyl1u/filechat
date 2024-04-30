@@ -1,6 +1,6 @@
 # filechat
 
-"The hottest new programming language is English" - Andrej Karpathy
+> "The hottest new programming language is English" - Andrej Karpathy
 
 filechat lets you talk to your file system 🗣️  
 no more memorizing unix command cheatsheets and writing custom shell scripts... filechat is all you need
@@ -24,4 +24,3 @@ uses [llama3 w/ ollama](https://ollama.com/library/llama3) 🦙
 ### but if you have filechat... 😎
 
 https://github.com/dannyl1u/filechat/assets/45186464/002796f2-082a-4831-bbc8-3b8b61918900
-
