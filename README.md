@@ -5,7 +5,7 @@ no more memorizing unix command cheatsheets and writing custom shell scripts... 
 
 https://github.com/dannyl1u/filechat/assets/45186464/8883bbd7-db71-4805-a2fb-5597e71f9880
 
-video is played back at 1x speed, running locally on a m1 pro macbook with **no external connections (no gpt key needed!) **
+video is played back at 1x speed, running locally on a m1 pro macbook with **no external connections (no gpt key needed!)**
 
 uses [llama3 w/ ollama](https://ollama.com/library/llama3) 🦙
 
