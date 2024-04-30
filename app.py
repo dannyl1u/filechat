@@ -5,15 +5,15 @@ def main():
     print("Welcome to the Command Assistant! I'm here to help you with your MacOS tasks. Let's get started.")
     print("Please type your task, and I'll suggest a MacOS command for it.")
     
-    user_input = input("What would you like to do today (e.g. 'list all files in a directory')?")
+    user_input = input("What would you like to do today (e.g. 'list all files in a directory')?\n")
     prompt = ("You are a command outputter, your output will only contain valid MacOS commands and nothing more, "
-              "so that they can be copy-pasted as is. Give me the command to " + user_input)
+              "so that they can be copy-pasted as is. Do not give any additional notes or text. Give me the command to " + user_input)
     
     response = ollama.chat(model='llama3', messages=[{'role': 'user', 'content': prompt}])
     cmd = response['message']['content']
     
     print("\nSuggested command: " + cmd)
-    confirmation = input("Do you want to run this command? (y/n): ")
+    confirmation = input("Do you want to run this command? (y/n): \n")
     
     if confirmation.lower() == 'y':
         try:
