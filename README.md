@@ -3,7 +3,7 @@
 > "The hottest new programming language is English" - Andrej Karpathy
 
 no more memorizing unix command cheatsheets... filechat is all you need
-filechat lets you talk to your file system with plain english 🗣️  
+filechat lets you talk to your computing with plain english 🗣️  
 
 e.g. no need to remember `rm -rf .` just tell your computer to `please delete everything 😇`
 
