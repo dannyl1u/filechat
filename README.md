@@ -5,7 +5,7 @@
 no more memorizing unix command cheatsheets... filechat is all you need
 filechat lets you talk to your computing with plain english 🗣️  
 
-e.g. no need to remember `rm -rf .` just tell your computer to `please delete everything 😇`
+e.g.  e.g. telling the computer in english `update permissions so that owners can have read/write access to photos` is a lot easier to remember than `find / -name "*.jpg" -type f -exec chmod 644 {} \;`
 
 https://github.com/dannyl1u/filechat/assets/45186464/8883bbd7-db71-4805-a2fb-5597e71f9880
 
