@@ -2,7 +2,7 @@
 
 > "The hottest new programming language is English" - Andrej Karpathy
 
-no more memorizing unix command cheatsheets... filechat is all you need
+no more memorizing unix command cheatsheets... filechat is all you need  
 filechat lets you talk to your computing with plain english 🗣️  
 
 e.g.  e.g. telling the computer in english `update permissions so that owners can have read/write access to photos` is a lot easier to remember than `find / -name "*.jpg" -type f -exec chmod 644 {} \;`
