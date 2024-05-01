@@ -72,3 +72,13 @@ filechat
 ### but if you have filechat... 😎
 
 https://github.com/dannyl1u/filechat/assets/45186464/002796f2-082a-4831-bbc8-3b8b61918900
+
+## Star History
+
+<a href="https://star-history.com/#dannyl1u/filechat&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=dannyl1u/filechat&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=dannyl1u/filechat&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=dannyl1u/filechat&type=Date" />
+  </picture>
+</a>
