@@ -1,1 +1,5 @@
 ollama
+asyncio
+threading
+time
+subprocess
