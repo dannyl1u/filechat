@@ -15,10 +15,10 @@ loading_animation_frames = [
 ]
 
 def loading(stop_loading_thread):
-    i = 0
-
+    
     while not stop_loading_thread.is_set():
-        for char in '|/-\\':
+        i = 0
+        for char in loading_animation_frames:
             print('thinking ' + loading_animation_frames[i % len(loading_animation_frames)], end="\r")
             time.sleep(.125)
             i += 1
