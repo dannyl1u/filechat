@@ -56,7 +56,7 @@ Open a new terminal and type:
 
 ```bash
 filechat
-``
+```
 🎉
 
 ## how to setup locally (the old way) 😴
