@@ -2,25 +2,21 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='CommandAssistant',
+    name='filechat',
     version='1.0.0',
     author='Danny Liu',
     author_email='dannyjialiliu@gmail.com',
     description='A CLI tool for generating and executing MacOS commands using the Ollama API.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourgithubusername/CommandAssistant',
+    url='https://github.com/dannyl1u/filechat',
     packages=find_packages(),
     install_requires=[
         'ollama',
-        'asyncio',
-        'threading',
-        'time',
-        'subprocess'
     ],
     entry_points={
         'console_scripts': [
-            'filechat=commandassistant.main:main',
+            'filechat=filechat.main:main',
         ],
     },
     classifiers=[
