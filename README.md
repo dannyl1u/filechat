@@ -65,9 +65,9 @@ filechat
 
 `cd filechat`
 
-`pip install -r requirements.txt`
+`pip install .`
 
-`python app.py`
+`filechat`
 
 ### but if you have filechat... 😎
 
